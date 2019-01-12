@@ -1,12 +1,11 @@
 {
-  "name": "es6-babel-practice",
+  "name": "indecision-app",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Andrew Mead",
   "license": "MIT",
   "dependencies": {
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
-    "eslint": "^5.12.0",
-    "eslint-plugin-react": "^7.12.3"
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
   }
 }
